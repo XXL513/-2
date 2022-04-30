@@ -148,9 +148,9 @@ python train.py --data data/my_config.yaml --cfg models/yolov5s.yaml  --weights 
 python test.py --weights runs\train\exp13\weights\best.pt --data data/my_config.yaml --save-txt --task test
 ```
 
-![re1](D:\学期计划\2021_暑假\车辆追踪\re1.png)
+![re1](https://raw.githubusercontent.com/XXL513/-2/main/%E8%BD%A6%E8%BE%86%E8%BF%BD%E8%B8%AA/img/re1.png)
 
-![re2](D:\学期计划\2021_暑假\车辆追踪\re2.png)
+![re2](https://raw.githubusercontent.com/XXL513/-2/main/%E8%BD%A6%E8%BE%86%E8%BF%BD%E8%B8%AA/img/re2.png)
 
 
 
@@ -189,7 +189,7 @@ python track.py \
 	--classes 2 \
 	--show-vid 
 ```
-
+![result](https://github.com/XXL513/-2/blob/main/%E8%BD%A6%E8%BE%86%E8%BF%BD%E8%B8%AA/testcar.gif)
 
 
 
