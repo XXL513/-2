@@ -20,7 +20,7 @@
 
 
 
-<img src="D:\学期计划\2021_暑假\车辆测速\img\流程图.PNG" alt="流程图" style="zoom: 80%;" />
+<img src="https://raw.githubusercontent.com/XXL513/-2/main/%E8%BD%A6%E8%BE%86%E6%B5%8B%E9%80%9F/img/%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG" />
 
 - 变量说明
 
@@ -42,7 +42,7 @@
 python speed_check.py
 ```
 
-![output](D:\学期计划\2021_暑假\车辆测速\img\output.gif)
+![output](https://raw.githubusercontent.com/XXL513/-2/main/%E8%BD%A6%E8%BE%86%E6%B5%8B%E9%80%9F/img/output.gif)
 
 #### 2.1.4 代码
 
